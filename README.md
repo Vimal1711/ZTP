@@ -1,0 +1,2 @@
+# ZTP
+ Configuration of router
